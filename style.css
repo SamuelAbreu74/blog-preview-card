@@ -74,7 +74,14 @@ main {
 
 .main-info h1 {
     font-size: large;
+    cursor: pointer;
 }
+
+.main-info h1:hover {
+    color: hsl(47, 88%, 63%);
+}
+
+:hover
 
 .main-info p {
     color: hsl(0, 0%, 42%);
