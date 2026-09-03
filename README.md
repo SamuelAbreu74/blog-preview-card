@@ -24,7 +24,6 @@ Users should be able to:
 
 ### Screenshot of The References
 
-<!-- DICA: Substitua o 'caminho_para_o_seu_print.jpg' pela sua imagem e ajuste o width se necessário -->
 <img src="./design/desktop-design.jpg" alt="Desktop Version" width="600">
 <img src="./design/active-states.jpg" alt="Desktop Active State Version" width="600">
 <img src="./design/mobile-design.jpg" alt="Mobile Version" width="300">
